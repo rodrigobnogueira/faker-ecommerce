@@ -5,7 +5,7 @@ Faker provider for generating e-commerce fake data.
 ## Installation
 
 ```bash
-pip install faker-ecommerce
+pip install faker-ecommerce-provider
 ```
 
 ## Usage
