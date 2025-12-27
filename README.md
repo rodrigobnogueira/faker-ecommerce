@@ -1,4 +1,4 @@
-# faker-ecommerce
+# faker-ecommerce-provider
 
 Faker provider for generating e-commerce fake data.
 

@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "faker-ecommerce-provider"
-version = "1.0.1"
-description = "A Faker provider for generating realistic e-commerce test data: products, orders, payments, shipping, and more"
+version = "1.0.2"
+description = "Generate realistic e-commerce test data: products, SKUs, orders, 20+ carriers, 20+ payment methods, coupons, reviews, and more"
 readme = "README.md"
 license = {text = "MIT"}
 keywords = ["faker", "ecommerce", "e-commerce", "fake-data", "testing", "shopping"]
