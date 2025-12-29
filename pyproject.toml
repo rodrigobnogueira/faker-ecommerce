@@ -7,6 +7,7 @@ name = "faker-ecommerce-provider"
 version = "1.0.2"
 description = "Generate realistic e-commerce test data: products, SKUs, orders, 20+ carriers, 20+ payment methods, coupons, reviews, and more"
 readme = "README.md"
+authors = [{name = "Rodrigo Nogueira", email = "rodrigo.b.nogueira@gmail.com"}]
 license = {text = "MIT"}
 keywords = ["faker", "ecommerce", "e-commerce", "fake-data", "testing", "shopping"]
 classifiers = [
